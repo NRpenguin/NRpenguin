@@ -65,7 +65,7 @@ Me interesa especialmente trabajar en equipos que valoren la calidad del código
 
 ## 📫 Contacto
 
-- LinkedIn: (agregalo acá si tenés)  
+- LinkedIn: Ignacio Rios 
 - Email: nachorios1969@gmail.com
 
 ---
