@@ -34,12 +34,19 @@ Actualmente busco mi **primera experiencia profesional** como desarrollador mien
 ## 📌 Proyectos destacados
 
 ### 🛒 E-commerce en React
-Aplicación de comercio electrónico desarrollada con React que incluye navegación por categorías, carrito de compras y gestión de estado.  
+
+Aplicación de comercio electrónico desarrollada con React.  
+Durante este proyecto aprendí a **integrar Firebase** como backend para el manejo de datos y autenticación, a utilizar la **Context API de React** para la gestión de estado global y a trabajar con herramientas del ecosistema como **Webpack** para el empaquetado y optimización de la aplicación.
+
 🔗 Repositorio: https://github.com/NRpenguin/E-commerce_ReactJS
 
-### 📄 (Podés agregar tu segundo proyecto acá)
-Breve descripción de qué hace y qué tecnologías usa.  
-🔗 Repositorio: (link)
+### 🛍️ E-commerce en JavaScript (Puro JS)
+
+Desarrollo de una tienda online usando **JavaScript puro**, HTML y CSS, sin frameworks.  
+Incluye manejo de DOM, lógica de carrito de compras, eventos, y funcionalidades interactivas que muestran el uso práctico de JavaScript nativo para construir una experiencia de usuario completa.
+
+🔗 Repositorio: https://github.com/NRpenguin/E-commerce_JS  
+
 
 > 🔹 *A futuro quiero sumar proyectos con mayor foco en backend e integraciones con IA.*
 
@@ -58,9 +65,8 @@ Me interesa especialmente trabajar en equipos que valoren la calidad del código
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/NRpenguin  
 - LinkedIn: (agregalo acá si tenés)  
-- Email: (si querés hacerlo público)
+- Email: nachorios1969@gmail.com
 
 ---
 
